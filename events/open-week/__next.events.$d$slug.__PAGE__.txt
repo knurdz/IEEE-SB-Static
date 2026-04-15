@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[93035,["/IEEE-SB/_next/static/chunks/00vovcjndt4c1.js","/IEEE-SB/_next/static/chunks/09yr8h0k.0wc3.js","/IEEE-SB/_next/static/chunks/0l9g_hvv5eucx.js","/IEEE-SB/_next/static/chunks/04o-2mv1a23~x.js","/IEEE-SB/_next/static/chunks/15omajm3x2i-r.js","/IEEE-SB/_next/static/chunks/0ry1~9.cmmtad.js"],"default"]
-4:I[99424,["/IEEE-SB/_next/static/chunks/00vovcjndt4c1.js","/IEEE-SB/_next/static/chunks/09yr8h0k.0wc3.js","/IEEE-SB/_next/static/chunks/0l9g_hvv5eucx.js","/IEEE-SB/_next/static/chunks/04o-2mv1a23~x.js","/IEEE-SB/_next/static/chunks/15omajm3x2i-r.js"],"OutletBoundary"]
+2:I[93035,["/IEEE-SB/_next/static/chunks/00vovcjndt4c1.js","/IEEE-SB/_next/static/chunks/09yr8h0k.0wc3.js","/IEEE-SB/_next/static/chunks/0l9g_hvv5eucx.js","/IEEE-SB/_next/static/chunks/04o-2mv1a23~x.js","/IEEE-SB/_next/static/chunks/0873.2h~wwlk5.js","/IEEE-SB/_next/static/chunks/0ry1~9.cmmtad.js"],"default"]
+4:I[99424,["/IEEE-SB/_next/static/chunks/00vovcjndt4c1.js","/IEEE-SB/_next/static/chunks/09yr8h0k.0wc3.js","/IEEE-SB/_next/static/chunks/0l9g_hvv5eucx.js","/IEEE-SB/_next/static/chunks/04o-2mv1a23~x.js","/IEEE-SB/_next/static/chunks/0873.2h~wwlk5.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/IEEE-SB/_next/static/chunks/0ry1~9.cmmtad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Mw3mujyN9yxkyEorFSm5h"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/IEEE-SB/_next/static/chunks/0ry1~9.cmmtad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"v7NUGCIhBu7rr4l0dsQ18"}
 3:{"slug":"open-week"}
 6:null
